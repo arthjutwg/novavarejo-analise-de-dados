@@ -77,7 +77,7 @@ Comparação do desempenho comercial entre regiões e canais de venda.
 
 Análise do desempenho dos vendedores por receita, lucro e volume de pedidos.
 
-dashboard-performance-comercial.png
+<img width="868" height="441" alt="Image" src="https://github.com/user-attachments/assets/97f62592-a6a7-4e9a-a6c0-609fb563f3b2" />
 
 ---
 
