@@ -85,7 +85,7 @@ Análise do desempenho dos vendedores por receita, lucro e volume de pedidos.
 
 Análise da satisfação dos clientes e comparação dos resultados entre os canais de venda.
 
-dashboard-satisfacao.png
+<img width="888" height="447" alt="Image" src="https://github.com/user-attachments/assets/0849d135-271d-4cff-90ca-8870950a5ab2" />
 
 ---
 
