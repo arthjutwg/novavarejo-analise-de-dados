@@ -61,7 +61,7 @@ Visão geral dos principais indicadores do negócio, permitindo acompanhar recei
 
 Análise da contribuição dos produtos e categorias para receita e lucro, permitindo comparar faturamento e rentabilidade.
 
-dashboard-produtos-rentabilidade.png
+<img width="870" height="431" alt="Image" src="https://github.com/user-attachments/assets/36323b3c-24dc-4ff5-84d0-1bf624d1495b" />
 
 ---
 
