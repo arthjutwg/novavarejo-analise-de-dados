@@ -53,7 +53,7 @@ Analisar o desempenho comercial da NovaVarejo Commerce, acompanhando indicadores
 
 Visão geral dos principais indicadores do negócio, permitindo acompanhar receita, lucro, margem, pedidos, ticket médio e desempenho comercial.
 
-dashboard-performance-comercial.png
+https://github.com/arthjutwg/novavarejo-analise-de-dados/commit/5b21f2b8eb4c27db6d110e45c6dd971923c26a4c
 ---
 
 ## 2. Produtos e Rentabilidade
