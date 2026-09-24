@@ -69,7 +69,7 @@ Análise da contribuição dos produtos e categorias para receita e lucro, permi
 
 Comparação do desempenho comercial entre regiões e canais de venda.
 
-dashboard-regioes-canais.png
+<img width="893" height="455" alt="Image" src="https://github.com/user-attachments/assets/1e342f83-8734-4e8e-abe8-8cfdba6c33a1" />
 
 ---
 
