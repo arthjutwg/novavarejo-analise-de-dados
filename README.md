@@ -135,8 +135,7 @@ Projeto de portfólio desenvolvido para demonstrar habilidades em análise de da
 
 O objetivo do projeto é transformar dados comerciais em indicadores e informações úteis para apoiar a tomada de decisão.
 
-🎯 Objetivo do projeto <p style="font-size:16px;">Seu texto aqui</p Objetivo do projeto>
-Analisar o desempenho comercial da NovaVarejo Commerce, acompanhando indicadores como:
+🎯 Objetivo do projeto é Analisar o desempenho comercial da NovaVarejo Commerce, acompanhando indicadores como:
 
 Receita
 Lucro
